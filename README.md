@@ -1,4 +1,4 @@
-[ ![ MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcutshort.io%2Fblog%2Fcareer-advice%2Ffull-stack-development-become-full-stack-developer&psig=AOvVaw2Eh5KSzCVKZ49qSiPPhKei&ust=1715932270637000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMj7-vzXkYYDFQAAAAAdAAAAABAE)
+[![MasterHead](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)](https://buragapuharika.io)
 <h1 align="center">Hi 👋, I'm Buragapu Harika</h1>
 <h3 align="center">A passionate frontend developer and the web developer and Programm Developer from India</h3>
 <img align="right" alt="coding" width="400" scr="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif">
