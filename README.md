@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)](https://buragapuharika.io)
+[![MasterHead](https://cutshort.io/blog/wp-content/uploads/2018/04/bd1e5c2457278a37313c55ce8c887aa3.jpg)](https://buragapuharika.io)
 <h1 align="center">Hi 👋, I'm Buragapu Harika</h1>
 <h3 align="center">A passionate frontend developer and the web developer and Programm Developer from India</h3>
 <img align="right" alt="coding" width="400" scr="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif">
